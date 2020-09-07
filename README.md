@@ -1,4 +1,4 @@
 # Python1
-a=input("enter a number")
-b=input("enter b number")
+a=int(input("enter a number"))
+b=int(input("enter b number"))
 Print(a+b)
