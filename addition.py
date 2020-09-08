@@ -21,8 +21,6 @@ def add(a,b='default'):
 add(2,2)
 
 
-a="addition of {a} and {b} is {c}".format(a=2,b=6,c=a+b)
-print(a)
 
 a=2
 b=5
