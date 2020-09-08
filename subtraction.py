@@ -37,7 +37,7 @@ print(obj.sub1(a,b))
 class sub():
     def sub1(self,a,b):
         return a-b
-a=9
+a=2
 b=7
 obj=sub()
 print(obj.sub1(a,b))
