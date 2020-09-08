@@ -50,7 +50,7 @@ obj=add()
 c=obj.add1(a,b)
 print(c)
 
-a=(1,2)
+a=(1,4)
 x=sum(a)
 print(x)
 
