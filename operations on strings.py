@@ -6,11 +6,11 @@ print(s[:-5])
 print(s[-5:])
 print(s[:5])
 
-s="swa"
-s1="thi"
-print('s+s1=',s+s1)
+s0="D."
+s1="swa"
+s2="thi"
+print('s0+s1+s2=',s0+s1+s2)
 print('s*2=',s*2)
-
 
 count=0
 for letter in "swathi is good girl":
