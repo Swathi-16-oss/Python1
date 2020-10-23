@@ -14,7 +14,7 @@ print('s*2=',s*2)
 
 count=0
 for letter in "swathi is good girl":
-    if(letter == 's'):
+    if(letter=='s'):
         count+=1
 print("letter count",count)
 
@@ -30,7 +30,7 @@ print('i' in 'swa')
 
 
 
-print(len(s))
+print((len(s)))
 print(tuple(enumerate(s)))
 print(list(enumerate(s)))
 print(set(enumerate(s)))
