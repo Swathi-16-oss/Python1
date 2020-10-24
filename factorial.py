@@ -9,8 +9,9 @@ else:
     for i in range(1,n+1):
         fact=fact*i
         print(fact)
-
-        
+'''o/p:
+enter the number5
+ 120'''       
 
 n=int(input("enter the number"))
 i=1
@@ -23,7 +24,6 @@ while(n>0):
     if(i==n+2):
         break
     print(fact)
-
     
 import math
 n=int(input("enter the number"))
