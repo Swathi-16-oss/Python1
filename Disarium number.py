@@ -18,7 +18,7 @@ else:
 1^1+3^2+5^3
 1+9+125
 sum=135
-so sum=n
+so sum is equal to n so it is disarium
 o/p:
 enter135
 135 is a disarium number
@@ -26,7 +26,6 @@ enter135
 enter89
 89 is a disarium number
 >>> 
-========
 enter123
 123 is not a disarium number'''
 
