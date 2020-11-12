@@ -13,12 +13,13 @@ if(sum == n):
 else:
     print(str(n) + " is not a disarium number")
 
+
 '''explanation:
 135
 1^1+3^2+5^3
 1+9+125
 sum=135
-so sum is equal to n so it is disarium
+so sum is equal to n so it is disarium.
 o/p:
 enter135
 135 is a disarium number
