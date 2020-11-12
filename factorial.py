@@ -1,6 +1,5 @@
 import time
 start_time=time.time()
-
 n=int(input("enter the number"))
 fact=1
 if(n==0):
@@ -28,9 +27,6 @@ while(n>0):
 import math
 n=int(input("enter the number"))
 print(math.factorial(n))
-
-
-
 def fact(n):
     if(n==1):
         return n
