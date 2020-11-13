@@ -51,7 +51,6 @@ enter b number3
 2.0
 '''
 
-
 class div():
     def div1(self,a,b):
         return a/b
