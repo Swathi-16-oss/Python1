@@ -35,8 +35,6 @@ def fact(n):
         return facto
 n=int(input("enter the number"))
 print(fact(n))
-
-
 print("....%s sec"%(time.time()- start_time))
     
 
