@@ -26,10 +26,6 @@ for words in "swathi is good girl":
         count+=1
 print("words count",count)
 print('i' in 'swa')
-
-
-
-
 print((len(s)))
 print(tuple(enumerate(s)))
 print(list(enumerate(s)))
