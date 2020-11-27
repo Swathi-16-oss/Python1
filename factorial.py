@@ -24,6 +24,7 @@ while(n>0):
         break
     print(fact)
     
+
 import math
 n=int(input("enter the number"))
 print(math.factorial(n))
