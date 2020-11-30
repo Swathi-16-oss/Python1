@@ -13,7 +13,6 @@ c=a/b
 print(c)
 #o/p:0.25
 
-
 a=3
 b=5
 c=a/b
