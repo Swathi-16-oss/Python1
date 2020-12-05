@@ -4,11 +4,12 @@ if(str==str[::-1]):
 else:
     print("the string is not palindrome")
 
-'''o/p:
+'''o/p:(1)
 enter the stringswathi
 the string is not palindrome
 >>> 
 ========
+(2)
 enter the stringpip
 the string is palindrome
 >>> '''
