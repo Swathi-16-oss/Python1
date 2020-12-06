@@ -9,7 +9,6 @@ else:
         fact=fact*i
         print(fact)
 
-
 '''o/p:
 enter the number5
  120'''       
