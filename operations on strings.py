@@ -6,6 +6,7 @@ print(s[:-5])
 print(s[-5:])
 print(s[:5])
 
+
 s0="D."
 s1="swa"
 s2="thi"
