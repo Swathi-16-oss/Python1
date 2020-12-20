@@ -2,6 +2,7 @@ a=int(input("enter a num"))
 b=int(input("enter b number"))
 c=a-b
 print(c)
+
 '''o/p:
 enter a num3
 enter b number23
