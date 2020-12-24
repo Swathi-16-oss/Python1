@@ -10,8 +10,6 @@ def com(li):
                                            if(i!=j & j!=k  &k!=i):
                                                print(li[i],li[j])
 
-
-
 data=list('134')
 print('com')
 for j in com(data):
