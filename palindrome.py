@@ -9,7 +9,6 @@ enter the stringswathi
 the string is not palindrome
 >>> 
 ========
-
 (2)
 enter the stringpip
 the string is palindrome
