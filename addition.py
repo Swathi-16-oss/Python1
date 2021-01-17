@@ -3,6 +3,7 @@ a=int(input("enter a number"))
 b=int(input("enter b number"))
 c=a+b
 print(c)
+
 '''o/p:
 enter a number5
 enter b number6
