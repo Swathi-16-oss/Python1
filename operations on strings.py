@@ -13,6 +13,7 @@ s2="thi"
 print('s0+s1+s2=',s0+s1+s2)
 print('s*2=',s*2)
 
+
 count=0
 for letter in "swathi is good girl":
     if(letter=='s'):
