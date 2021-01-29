@@ -18,8 +18,7 @@ def per(li):
             x1=li[:i]+li[i+1:]
             for j in per(x1):
                 lis.append([x]+j)
-                
-        return lis
+         return lis
 data=list('123')
 print('per')
 for j in per(data):
