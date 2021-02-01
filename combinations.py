@@ -1,3 +1,4 @@
+
 def com(li):
     if(len(li)==0):
         return []
