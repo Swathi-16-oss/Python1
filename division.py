@@ -33,8 +33,6 @@ div(4,2)
 #o/p:2.0
 
 
-    
-
 class div():
     def div1(self,a,b):
         self.a=a
