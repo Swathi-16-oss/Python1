@@ -12,5 +12,6 @@ def com(li):
                                                print(li[i],li[j])
 data=list('134')
 print('com')
+
 for j in com(data):
     print(j)
