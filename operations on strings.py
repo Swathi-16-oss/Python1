@@ -43,3 +43,13 @@ print(set(enumerate(s)))
 print("i'am 'swathi'")
 print('i\'am "swathi"')
 print("i'am \"swathi\"")
+'''o/p:
+    words count 4
+False
+6
+((0, 's'), (1, 'w'), (2, 'a'), (3, 't'), (4, 'h'), (5, 'i'))
+[(0, 's'), (1, 'w'), (2, 'a'), (3, 't'), (4, 'h'), (5, 'i')]
+{(4, 'h'), (3, 't'), (1, 'w'), (0, 's'), (2, 'a'), (5, 'i')}
+i'am 'swathi'
+i'am "swathi"
+i'am "swathi"'''
