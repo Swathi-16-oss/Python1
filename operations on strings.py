@@ -5,7 +5,14 @@ print(s[0:])
 print(s[:-5])
 print(s[-5:])
 print(s[:5])
-
+'''output:
+enter a stringswathi
+w
+i
+swathi
+s
+wathi
+swath'''
 
 s0="D."
 s1="swa"
